@@ -702,9 +702,3 @@ uv run pytest
 - Consider adding a small **UI section** explaining safety boundaries (e.g., "not a crisis service").
 
 ---
-
-## Disclaimer
-
-This project is intended as a **technical demonstration** of how to combine LLM tooling, Twilio, and location-based services for mental health support–style conversations. It **must not** be used as a replacement for licensed mental health professionals or emergency services.
-
-If you or someone you know is in immediate danger, contact local emergency services or a crisis hotline in your region.
